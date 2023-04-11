@@ -1,3 +1,3 @@
 # DIO-Flutter-Specialist-Desafio-3
 
-Repositório dedicado ao Desafio 2 do Flutter Specialist da DIO
+Repositório dedicado ao Desafio 3 do Flutter Specialist da DIO
